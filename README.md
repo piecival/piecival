@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piecival
-- 👀 I’m interested in java, golang
+- 👀 I’m interested in java, python and golang 
 - 🌱 I’m currently learning distributed system
 
 <!---
